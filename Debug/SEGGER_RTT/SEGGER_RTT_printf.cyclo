@@ -1,0 +1,6 @@
+../SEGGER_RTT/SEGGER_RTT_printf.c:113:13:_StoreChar	4
+../SEGGER_RTT/SEGGER_RTT_printf.c:138:13:_PrintUnsigned	20
+../SEGGER_RTT/SEGGER_RTT_printf.c:228:13:_PrintInt	25
+../SEGGER_RTT/SEGGER_RTT_printf.c:323:5:SEGGER_RTT_vprintf	30
+../SEGGER_RTT/SEGGER_RTT_printf.c:497:5:SEGGER_RTT_printf	1
+../SEGGER_RTT/SEGGER_RTT_printf.c:507:5:SEGGER_RTT_printf_buffer0	1

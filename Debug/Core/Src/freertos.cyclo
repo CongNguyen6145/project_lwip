@@ -1,0 +1,2 @@
+../Core/Src/freertos.c:63:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:79:8:SubString	4

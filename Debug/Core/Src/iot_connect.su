@@ -1,0 +1,2 @@
+../Core/Src/iot_connect.c:88:6:StartDefaultTask	56	static
+../Core/Src/iot_connect.c:121:6:handleClientTask	16	static
